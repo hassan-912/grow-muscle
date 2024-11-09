@@ -16,7 +16,7 @@ function price() {
             <p className="mt-2 sm:mt-4">
               <strong className="text-3xl font-bold text-primary3 sm:text-4xl"> 0$ </strong>
 
-              <span className="text-sm font-medium text-primary3">Free with Ads</span>
+              <span className="text-sm font-medium text-primary3">Free with ads</span>
             </p>
 
             <a
