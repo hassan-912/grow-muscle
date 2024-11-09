@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Chart from 'chart.js/auto';
 import './page.css'
-// dont touch the function
+
 function CalorieCalculator() {
   const [age, setAge] = useState('');
   const [ageError, setAgeError] = useState('');
