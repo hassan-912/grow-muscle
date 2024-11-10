@@ -294,7 +294,14 @@ function CalorieCalculator() {
 
 
 
-     
+            {BMI && (
+              <div className="bmi-chart-container mt-10">
+                <h2>BMI  ({BMI} )</h2>
+                <canvas id="bmiChart" width="400" height="200"></canvas>
+                <p className="mt-4">Status: {status}</p> 
+              </div>
+            )}
+
 
           </div>
           </div>
