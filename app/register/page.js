@@ -144,8 +144,8 @@ function Reg() {
               <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl dark:text-white">
                 Welcome to Muscle builder
               </h1>
-              <p className="mt-4 leading-relaxed text-white dark:text-white">
-                complete the form to unlock exuclisve featuers
+              <p className="mt-4 leading-relaxed text-slate-950 dark:text-cyan-400">
+                sign in to unlock all features 
               </p>
             </div>
             <form onSubmit={handleSubmit} className="mt-10 grid grid-cols-6 gap-10">
